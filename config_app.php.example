@@ -1,0 +1,13 @@
+<?php
+return [
+    'database'=>[
+        'host'=> '',
+        'username'=> '',
+        'password'=> '',
+        'databaseName'=> '',
+    ],
+    'path'=>__DIR__,
+    'public_path'=>__DIR__,
+    'JWT_SECRET_KEY'=>''
+];
+?>
