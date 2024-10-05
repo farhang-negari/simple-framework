@@ -1,6 +1,6 @@
 {
   "name": "farhang-negari/shurt-url-filimo",
-  "description": "create basic project shurt link url for filimo",
+  "description": "create basic project shortlink url",
   "license": "MIT",
   "autoload": {
     "psr-4": {
