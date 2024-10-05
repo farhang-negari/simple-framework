@@ -3,4 +3,3 @@ vendor/*
 *.zip
 .idea
 config_app.php
-config_app.env
